@@ -1,1 +1,1 @@
-refresh graph
+refresh graph 1
