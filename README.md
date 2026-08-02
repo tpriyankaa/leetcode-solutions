@@ -12,16 +12,16 @@ Welcome to my personal repository of **LeetCode** solutions! This project serves
 | Difficulty | Solved | Total Available | Status |
 | :--- | :---: | :---: | :---: |
 | 🟢 Easy | **4** | 956 | 🚀 In Progress |
-| 🟡 Medium | **5** | 2091 | 🧠 Building Skills |
+| 🟡 Medium | **6** | 2091 | 🧠 Building Skills |
 | 🔴 Hard | **2** | 956 | ⏳ Up Next |
-| **Total** | **11 / 4003** | — | **Off to a Great Start!** |
+| **Total** | **12 / 4003** | — | **Off to a Great Start!** |
 
 ### 🛠️ Languages Used
 * **Python** 🐍 — 4 problems solved
 * **C++** 💻 — 1 problem solved
 * **C** 🧠 — 3 problem solved
 *  **JavaScript**🟨  — 2 problem solved
-*  **Java**🍵 — 1 problem solved
+*  **Java**🍵 — 2 problem solved
 
 ---
 
@@ -29,19 +29,20 @@ Welcome to my personal repository of **LeetCode** solutions! This project serves
 
 Here is the index of all problems solved so far, sorted by date completed.
 
-| # | Problem Title | Solution Link | Language | Category |
+| ⬇️ | Problem Title | Solution Link | Language | Category |
 | :-: | :--- | :-: | :-: | :--- |
-| 1 | Predict the winner | [Code](https://leetcode.com/problems/predict-the-winner/solutions/8434964/486-predict-the-winner-by-tpriyankaa-zptu/) | — | Dynamic Programming / Game Theory |
-| 2 | Median of Two Sorted Arrays | [Code](https://leetcode.com/problems/median-of-two-sorted-arrays/solutions/8433205/median-of-two-sorted-arrays-by-tpriyanka-gpfo/) | — | Array / Binary Search |
-| 3 | Minimum Number of Pushes to Type Word II | [Code](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/solutions/8433174/greedy-frequency-sorting-by-tpriyankaa-ewdm/) | — | Hash Table / String / Greedy |
-| 4 | Smallest Palindromic Rearrangement II | [Code](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/solutions/8428824/greedy-construction-with-saturated-combi-xwlq/) | — | String / Greedy |
-| 5 | Smallest Palindromic Rearrangement I | [Code](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/solutions/8426512/short-on-greedy-solution-javascript-by-t-yrwp/) | — | String / Greedy |
-| 6 | Maximum Product of Two Elements in an Array | [Code](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/solutions/8423351/easy-on-one-pass-solution-finding-two-ma-3h24/) | — | Array / Sorting |
-| 7 | Add Two Numbers | [Code](https://leetcode.com/problems/add-two-numbers/solutions/8423301/dummy-head-approach-step-by-step-carry-h-yy82/) | — | Linked List / Math |
-| 8 | Two Sum | [Code](https://leetcode.com/problems/two-sum/solutions/8422027/on-one-pass-hash-map-clear-clean-time-sp-ty3y/) | — | Array / Hash Table |
-| 9 | Maximum Product of Three Numbers | [Code](./) | — | Math / Sorting |
-| 10 | Number of Unique XOR Triplets II | [Code](https://leetcode.com/problems/number-of-unique-xor-triplets-ii/solutions/8419049/array-tracking-solution-xor-results-beat-x903/) | — | Math / Bit Manipulation |
-| 11 | Maximum Product of Two Digits | [Code](https://leetcode.com/problems/maximum-product-of-two-digits/solutions/8418711/finding-two-largest-digits-by-tpriyankaa-ysgw/) | — | Math |
+| ➡️ | Stone Game | [Code]https://leetcode.com/submissions/detail/2091567551/ | — | Dynamic Programming / Game Theory |
+| ➡️ | Predict the winner | [Code](https://leetcode.com/problems/predict-the-winner/solutions/8434964/486-predict-the-winner-by-tpriyankaa-zptu/) | — | Dynamic Programming / Game Theory |
+| ➡️ | Median of Two Sorted Arrays | [Code](https://leetcode.com/problems/median-of-two-sorted-arrays/solutions/8433205/median-of-two-sorted-arrays-by-tpriyanka-gpfo/) | — | Array / Binary Search |
+| ➡️ | Minimum Number of Pushes to Type Word II | [Code](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/solutions/8433174/greedy-frequency-sorting-by-tpriyankaa-ewdm/) | — | Hash Table / String / Greedy |
+| ➡️ | Smallest Palindromic Rearrangement II | [Code](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/solutions/8428824/greedy-construction-with-saturated-combi-xwlq/) | — | String / Greedy |
+| ➡️ | Smallest Palindromic Rearrangement I | [Code](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/solutions/8426512/short-on-greedy-solution-javascript-by-t-yrwp/) | — | String / Greedy |
+| ➡️ | Maximum Product of Two Elements in an Array | [Code](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/solutions/8423351/easy-on-one-pass-solution-finding-two-ma-3h24/) | — | Array / Sorting |
+| ➡️ | Add Two Numbers | [Code](https://leetcode.com/problems/add-two-numbers/solutions/8423301/dummy-head-approach-step-by-step-carry-h-yy82/) | — | Linked List / Math |
+| ➡️ | Two Sum | [Code](https://leetcode.com/problems/two-sum/solutions/8422027/on-one-pass-hash-map-clear-clean-time-sp-ty3y/) | — | Array / Hash Table |
+| ➡️ | Maximum Product of Three Numbers | [Code](./) | — | Math / Sorting |
+| ➡️ | Number of Unique XOR Triplets II | [Code](https://leetcode.com/problems/number-of-unique-xor-triplets-ii/solutions/8419049/array-tracking-solution-xor-results-beat-x903/) | — | Math / Bit Manipulation |
+| ➡️ | Maximum Product of Two Digits | [Code](https://leetcode.com/problems/maximum-product-of-two-digits/solutions/8418711/finding-two-largest-digits-by-tpriyankaa-ysgw/) | — | Math |
 
 ---
 
