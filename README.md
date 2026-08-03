@@ -35,7 +35,7 @@ Here is the index of all problems solved so far, sorted by date completed.
 | ➡️ | Stone Game | [Code](https://leetcode.com/submissions/detail/2091567551/) | — | Dynamic Programming / Game Theory |
 | ➡️ | Predict the winner | [Code](https://leetcode.com/problems/predict-the-winner/solutions/8434964/486-predict-the-winner-by-tpriyankaa-zptu/) | — | Dynamic Programming / Game Theory |
 | ➡️ | Median of Two Sorted Arrays | [Code](https://leetcode.com/problems/median-of-two-sorted-arrays/solutions/8433205/median-of-two-sorted-arrays-by-tpriyanka-gpfo/) | — | Array / Binary Search |
-| ➡️ | Minimum Number of Pushes to Type Word II | [Code](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/solutions/8433174/greedy-frequency-sorting-by-tpriya nkaa-ewdm/) | — | Hash Table / String / Greedy |
+| ➡️ | Minimum Number of Pushes to Type Word II | [Code](https://leetcode.com/submissions/detail/2089081587/) | — | Hash Table / String / Greedy |
 | ➡️ | Smallest Palindromic Rearrangement II | [Code](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/solutions/8428824/greedy-construction-with-saturated-combi-xwlq/) | — | String / Greedy |
 | ➡️ | Smallest Palindromic Rearrangement I | [Code](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/solutions/8426512/short-on-greedy-solution-javascript-by-t-yrwp/) | — | String / Greedy |
 | ➡️ | Maximum Product of Two Elements in an Array | [Code](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/solutions/8423351/easy-on-one-pass-solution-finding-two-ma-3h24/) | — | Array / Sorting |
