@@ -13,15 +13,15 @@ Welcome to my personal repository of **LeetCode** solutions! This project serves
 | :--- | :---: | :---: | :---: |
 | 🟢 Easy | **4** | 956 | 🚀 In Progress |
 | 🟡 Medium | **6** | 2091 | 🧠 Building Skills |
-| 🔴 Hard | **2** | 956 | ⏳ Up Next |
-| **Total** | **12 / 4003** | — | **Off to a Great Start!** |
+| 🔴 Hard | **3** | 956 | ⏳ Up Next |
+| **Total** | **13 / 4003** | — | **Off to a Great Start!** |
 
 ### 🛠️ Languages Used
 * **Python** 🐍 — 4 problems solved
 * **C++** 💻 — 1 problem solved
 * **C** 🧠 — 3 problem solved
 *  **JavaScript**🟨  — 2 problem solved
-*  **Java**🍵 — 2 problem solved
+*  **Java**🍵 — 3 problem solved
 
 ---
 
@@ -31,10 +31,11 @@ Here is the index of all problems solved so far, sorted by date completed.
 
 | ⬇️ | Problem Title | Solution Link | Language | Category |
 | :-: | :--- | :-: | :-: | :--- |
-| ➡️ | Stone Game | [Code]https://leetcode.com/submissions/detail/2091567551/ | — | Dynamic Programming / Game Theory |
+| ➡️ | Stone Game III | [Code](https://leetcode.com/submissions/detail/2092326843/) | — | Dynamic Programming / Game Theory |
+| ➡️ | Stone Game | [Code](https://leetcode.com/submissions/detail/2091567551/) | — | Dynamic Programming / Game Theory |
 | ➡️ | Predict the winner | [Code](https://leetcode.com/problems/predict-the-winner/solutions/8434964/486-predict-the-winner-by-tpriyankaa-zptu/) | — | Dynamic Programming / Game Theory |
 | ➡️ | Median of Two Sorted Arrays | [Code](https://leetcode.com/problems/median-of-two-sorted-arrays/solutions/8433205/median-of-two-sorted-arrays-by-tpriyanka-gpfo/) | — | Array / Binary Search |
-| ➡️ | Minimum Number of Pushes to Type Word II | [Code](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/solutions/8433174/greedy-frequency-sorting-by-tpriyankaa-ewdm/) | — | Hash Table / String / Greedy |
+| ➡️ | Minimum Number of Pushes to Type Word II | [Code](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/solutions/8433174/greedy-frequency-sorting-by-tpriya nkaa-ewdm/) | — | Hash Table / String / Greedy |
 | ➡️ | Smallest Palindromic Rearrangement II | [Code](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/solutions/8428824/greedy-construction-with-saturated-combi-xwlq/) | — | String / Greedy |
 | ➡️ | Smallest Palindromic Rearrangement I | [Code](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/solutions/8426512/short-on-greedy-solution-javascript-by-t-yrwp/) | — | String / Greedy |
 | ➡️ | Maximum Product of Two Elements in an Array | [Code](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/solutions/8423351/easy-on-one-pass-solution-finding-two-ma-3h24/) | — | Array / Sorting |
