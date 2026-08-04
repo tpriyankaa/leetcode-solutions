@@ -12,16 +12,16 @@ Welcome to my personal repository of **LeetCode** solutions! This project serves
 | Difficulty | Solved | Total Available | Status |
 | :--- | :---: | :---: | :---: |
 | 🟢 Easy | **5** | 956 | 🚀 In Progress |
-| 🟡 Medium | **6** | 2091 | 🧠 Building Skills |
+| 🟡 Medium | **7** | 2091 | 🧠 Building Skills |
 | 🔴 Hard | **3** | 956 | ⏳ Up Next |
-| **Total** | **13 / 4003** | — | **Off to a Great Start!** |
+| **Total** | **15 / 4003** | — | **Off to a Great Start!** |
 
 ### 🛠️ Languages Used
 * **Python** 🐍 — 4 problems solved
 * **C++** 💻 — 1 problem solved
 * **C** 🧠 — 3 problem solved
 *  **JavaScript**🟨  — 2 problem solved
-*  **Java**🍵 — 4 problem solved
+*  **Java**🍵 — 5 problem solved
 
 ---
 
@@ -31,6 +31,7 @@ Here is the index of all problems solved so far, sorted by date completed.
 
 | ⬇️ | Problem Title | Solution Link | Language | Category |
 | :-: | :--- | :-: | :-: | :--- |
+| ➡️ | Longest Substring without repeating character | [Code](https://leetcode.com/submissions/detail/2092326843/) | — | Array / Hash Table | 
 | ➡️ | Finding Missing Elements | [Code](https://leetcode.com/submissions/detail/2092326843/) | — | Array / Hash Table | 
 | ➡️ | Stone Game III | [Code](https://leetcode.com/submissions/detail/2092326843/) | — | Dynamic Programming / Game Theory |
 | ➡️ | Stone Game | [Code](https://leetcode.com/submissions/detail/2091567551/) | — | Dynamic Programming / Game Theory |
