@@ -11,7 +11,7 @@ Welcome to my personal repository of **LeetCode** solutions! This project serves
 
 | Difficulty | Solved | Total Available | Status |
 | :--- | :---: | :---: | :---: |
-| 🟢 Easy | **4** | 956 | 🚀 In Progress |
+| 🟢 Easy | **5** | 956 | 🚀 In Progress |
 | 🟡 Medium | **6** | 2091 | 🧠 Building Skills |
 | 🔴 Hard | **3** | 956 | ⏳ Up Next |
 | **Total** | **13 / 4003** | — | **Off to a Great Start!** |
@@ -21,7 +21,7 @@ Welcome to my personal repository of **LeetCode** solutions! This project serves
 * **C++** 💻 — 1 problem solved
 * **C** 🧠 — 3 problem solved
 *  **JavaScript**🟨  — 2 problem solved
-*  **Java**🍵 — 3 problem solved
+*  **Java**🍵 — 4 problem solved
 
 ---
 
@@ -31,6 +31,7 @@ Here is the index of all problems solved so far, sorted by date completed.
 
 | ⬇️ | Problem Title | Solution Link | Language | Category |
 | :-: | :--- | :-: | :-: | :--- |
+| ➡️ | Finding Missing Elements | [Code](https://leetcode.com/submissions/detail/2092326843/) | — | Array / Hash Table | 
 | ➡️ | Stone Game III | [Code](https://leetcode.com/submissions/detail/2092326843/) | — | Dynamic Programming / Game Theory |
 | ➡️ | Stone Game | [Code](https://leetcode.com/submissions/detail/2091567551/) | — | Dynamic Programming / Game Theory |
 | ➡️ | Predict the winner | [Code](https://leetcode.com/problems/predict-the-winner/solutions/8434964/486-predict-the-winner-by-tpriyankaa-zptu/) | — | Dynamic Programming / Game Theory |
